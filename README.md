@@ -1,8 +1,12 @@
-# Anichin-Lite
+# Anichin Lite
 
 Anichin Lite adalah aplikasi Android berbasis WebView yang dirancang untuk memberikan pengalaman menjelajah situs anichin.moe dengan tampilan yang lebih sederhana, ringan, dan nyaman digunakan.
 
 Aplikasi ini berfokus pada peningkatan pengalaman pengguna melalui antarmuka yang lebih bersih, navigasi yang praktis, serta berbagai optimasi agar penggunaan terasa lebih lancar di perangkat Android.
+
+## Download
+
+**[Download Anichin Lite v1.0](https://github.com/Aarmaaa28/Anichin-Lite/releases/download/v1.0/Anichin.Lite.apk)**
 
 ## Fitur
 
